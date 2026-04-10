@@ -1,0 +1,14 @@
+﻿{
+    "id":  "敲锣替换催促",
+    "name":  "敲锣替换催促",
+    "affects_gameplay":  false,
+    "has_pck":  true,
+    "version":  "0.0.1",
+    "description":  "别敲你那b锣了",
+    "author":  "小影moment",
+    "pck_name":  "敲锣替换催促",
+    "has_dll":  false,
+    "dependencies":  [
+
+                     ]
+}

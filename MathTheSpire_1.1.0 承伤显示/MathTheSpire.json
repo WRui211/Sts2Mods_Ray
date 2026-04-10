@@ -1,0 +1,11 @@
+﻿{
+  "id": "MathTheSpire",
+  "name": "伤害总数显示/MathTheSpire",
+  "author": "JMC",
+  "version": "1.1.0",
+  "description": "在头顶显示当前回合即将受到伤害的总数以及未被格挡的伤害，绿色代表完全格挡，蓝色代表部分格挡，红色代表伤害溢出；以后可能更一些别的功能，有问题反馈B站JMC丶或者Github，二次分发需注明来源",
+  "has_pck": true,
+  "has_dll": true,
+  "dependencies": [],
+  "affects_gameplay": false
+}
