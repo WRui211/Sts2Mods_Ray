@@ -1,0 +1,11 @@
+{
+  "id": "ArknightsChenIronclad",
+  "name": "ArknightsChenIronclad",
+  "author": "fxhere",
+  "description": "replaces Ironclad's textures with Chen's from Arknights",
+  "version": "v0.0.0",
+  "has_pck": true,
+  "has_dll": false,
+  "dependencies": [],
+  "affects_gameplay": false
+}

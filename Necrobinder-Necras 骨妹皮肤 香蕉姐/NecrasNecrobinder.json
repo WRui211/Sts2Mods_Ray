@@ -1,0 +1,11 @@
+{
+  "id": "NecrasNecrobinder",
+  "name": "NecrasNecrobinder",
+  "author": "fxhere",
+  "description": "replaces Necrobinder's textures with Necras's from Arknights",
+  "version": "v0.0.0",
+  "has_pck": true,
+  "has_dll": false,
+  "dependencies": [],
+  "affects_gameplay": false
+}

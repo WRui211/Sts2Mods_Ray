@@ -1,0 +1,11 @@
+{
+  "id": "ArknightsLingRegent",
+  "name": "ArknightsLingRegent",
+  "author": "fxhere",
+  "description": "replaces Regent's textures with Ling's from Arknights",
+  "version": "v0.0.0",
+  "has_pck": true,
+  "has_dll": false,
+  "dependencies": [],
+  "affects_gameplay": false
+}

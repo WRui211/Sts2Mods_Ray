@@ -1,0 +1,13 @@
+{
+  "id": "RosmontisSkinForRegent",
+  "name": "迷迭香-储君皮肤Mod",
+  "author": "bilibili : 傀儡师_lite",
+  "description": "以明日方舟中的角色迷迭香的形象替换储君的皮肤模组，包含迷迭香的原皮和两套皮肤，以及作为敌人形态出现的虚实之握。",
+  "version": "v0.0.2",
+  "has_pck": true,
+  "has_dll": true,
+  "dependencies": [
+    "SkinManagerAndSkinPanelMod"
+  ],
+  "affects_gameplay": false
+}

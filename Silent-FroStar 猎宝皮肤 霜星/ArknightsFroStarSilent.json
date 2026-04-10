@@ -1,0 +1,11 @@
+{
+  "id": "ArknightsFroStarSilent",
+  "name": "ArknightsFroStarSilent",
+  "author": "fxhere",
+  "description": "replaces Silent's textures with Fro-Star's from Arknights",
+  "version": "v0.0.0",
+  "has_pck": true,
+  "has_dll": false,
+  "dependencies": [],
+  "affects_gameplay": false
+}

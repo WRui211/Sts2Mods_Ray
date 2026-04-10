@@ -1,0 +1,11 @@
+{
+  "id": "ArknightsLeiziDefect",
+  "name": "ArknightsLeiziDefect",
+  "author": "fxhere",
+  "description": "replaces Defect's textures with Leizi's from Arknights",
+  "version": "v0.0.0",
+  "has_pck": true,
+  "has_dll": false,
+  "dependencies": [],
+  "affects_gameplay": false
+}

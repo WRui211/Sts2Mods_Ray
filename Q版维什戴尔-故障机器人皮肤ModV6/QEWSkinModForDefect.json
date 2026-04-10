@@ -1,0 +1,13 @@
+{
+  "id": "QEWSkinModForDefect",
+  "name": "愚人节Q版维什戴尔-故障机器人皮肤Mod",
+  "author": "bilibili : 傀儡师_lite",
+  "description": "神秘维什戴尔？占领了尖塔。",
+  "version": "V6",
+  "has_pck": true,
+  "has_dll": true,
+  "dependencies": [
+    "SkinManagerAndSkinPanelMod"
+  ],
+  "affects_gameplay": false
+}
