@@ -1,0 +1,11 @@
+{
+  "id": "MultiplayerQuickSL",
+  "name": "Multiplayer Quick SL",
+  "author": "花落丶思量错",
+  "description": "房主一键快速重开，客机自动无缝重连，彻底告别繁琐的退房建房流程！同时支持Steam房间与IP直连。",
+  "version": "v0.0.5",
+  "has_pck": true,
+  "has_dll": true,
+  "dependencies": [],
+  "affects_gameplay": false
+}
