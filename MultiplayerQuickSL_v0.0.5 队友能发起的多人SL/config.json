@@ -1,0 +1,13 @@
+{
+  "HostAutoHostDelayMs": 100,
+  "ClientSteamReconnectDelayMs": 500,
+  "ClientIpReconnectDelayMs": 500,
+  "AutoReadyClientDelayMs": 100,
+  "AutoReadyHostDelayMs": 200,
+  "HostSignalDelayMs": 100,
+  "EnableVoting": false,
+  "VoteTimeoutMs": 10000,
+  "SteamJoinRetryCount": 20,
+  "SteamJoinCheckDelayMs": 100,
+  "SteamJoinRetryIntervalMs": 500
+}
