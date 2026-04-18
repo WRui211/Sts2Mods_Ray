@@ -1,0 +1,13 @@
+﻿{
+    "id":  "翁法罗斯替换先古牌",
+    "name":  "翁法罗斯替换先古牌",
+    "author":  "a2329",
+    "description":  "翁法罗斯替换先古牌 card pack",
+    "version":  "v1.0.0",
+    "has_pck":  true,
+    "has_dll":  true,
+    "dependencies":  [
+
+                     ],
+    "affects_gameplay":  false
+}
